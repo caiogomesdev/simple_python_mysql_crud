@@ -1,1 +1,1 @@
-# Simple aplication CRUD using Python and Mysqldb
+# Simple application CRUD using Python and Mysqldb
